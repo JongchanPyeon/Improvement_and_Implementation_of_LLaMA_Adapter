@@ -1,0 +1,3 @@
+META:
+  - '/content/LLaMA-Adapter_JC/llama_adapter_v2_multimodal7b/dataset/alpaca_gpt4_data.json'
+  - '/content/LLaMA-Adapter_JC/llama_adapter_v2_multimodal7b/dataset/updated_llava_instruct_150k.json'
