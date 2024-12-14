@@ -42,9 +42,8 @@ This work is a replication of the work  [LLaMA-Adapter]([https://github.com/Brad
 - Run "evaluation_replicated.ipynb"
 
 
-## 3. Results - check [LLaMA-Adapter]([https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation](https://github.com/OpenGVLab/LLaMA-Adapter)).
-
-> For comparisons with other works, please check [MME Leaderboard](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation).
+## 3. Results 
+- check > [LLaMA-Adapter]([https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation](https://github.com/OpenGVLab/LLaMA-Adapter)).
 
 * **LLaMA-Adapter V2.1**
 
