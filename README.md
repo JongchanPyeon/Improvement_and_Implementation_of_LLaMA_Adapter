@@ -2,7 +2,7 @@
 This work is a replication of the work  [LLaMA-Adapter]([https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation](https://github.com/OpenGVLab/LLaMA-Adapter)).
 
 ## 1. Run the cells in "training_replicated.ipynb" step-by-step for the model training
-- check [LLaMA-Adapter]([https://github.com/OpenGVLab/LLaMA-Adapter]).
+- check [LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter).
 - After download "LLaMA-7B", make sure that the folder has this structure.
   ```
   /path/to/LLaMA-7B
@@ -15,7 +15,7 @@ This work is a replication of the work  [LLaMA-Adapter]([https://github.com/Brad
 
 
 ## 2. Evaluation
-- check [LLaMA-Adapter]([https://github.com/OpenGVLab/LLaMA-Adapter]).
+- check [LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter).
 - Run "extract_adapter_replicated.ipynb" to extract the trained adapter.
 - Download MME datasets and `eval_tool` from the [MME repo](https://github.com/bradyfu/awesome-multimodal-large-language-models#our-mllm-works), and put them under `MME_Benchmark_release_version`. Now the folder structure will be:
     ```
@@ -43,7 +43,7 @@ This work is a replication of the work  [LLaMA-Adapter]([https://github.com/Brad
 
 
 ## 3. Results 
-- check > [LLaMA-Adapter]([https://github.com/OpenGVLab/LLaMA-Adapter]).
+- check > [LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter).
 
 * **LLaMA-Adapter V2.1**
 
