@@ -1,5 +1,4 @@
-# cse597
-This work is a replication of the work  [LLaMA-Adapter]([https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation](https://github.com/OpenGVLab/LLaMA-Adapter)).
+# This work is a replication of the work  [LLaMA-Adapter]([https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation](https://github.com/OpenGVLab/LLaMA-Adapter)).
 
 ## 1. Run the cells in "training_replicated.ipynb" step-by-step for the model training
 - check [LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter).
