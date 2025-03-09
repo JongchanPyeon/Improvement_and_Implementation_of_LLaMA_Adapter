@@ -1,4 +1,4 @@
-# Improving the LLaMa-Adapter
+# Improvement and Implementation of LLaMa-Adapter : Parameter-Efficient Visual Instruction Model
 
 ## This work includes a replication of the work  [LLaMA-Adapter]([https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation](https://github.com/OpenGVLab/LLaMA-Adapter)).
 
